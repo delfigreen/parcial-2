@@ -1,0 +1,10 @@
+Escuela de Arte Multimedial Da Vinci
+Carrera: Diseño y Programación Web
+Materia: Interacción de dispositivos móviles
+Profesor: D´Addezio Alejandro
+Alumno: Delfina Green
+Cuatrimestre: 2do Cuatrimestre
+Comisión: BP
+Turno: Mañana
+Fecha de entrega: 29/11/2022
+
